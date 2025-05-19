@@ -379,8 +379,8 @@
                                 <div class="products-content">
                                     <div class="author-name">By Timbur Hood</div>
                                     <h3 class="item-title">Birds gonna be happy</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu feugiat amet,
-                                        libero ipsum enim pharetra hac.</p>
+                                    <p>This book contains eight kind and wise parables. You will find a deep meaning in
+                                        simple words. These tales were created in different parts of the world.</p>
                                     <div class="item-price">$ 45.00</div>
                                     <div class="btn-wrap">
                                         <a href="#" class="btn-accent-arrow">shop it now <i
