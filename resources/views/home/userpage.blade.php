@@ -1240,7 +1240,7 @@
                         <div class="row">
 
                             <div class="col-md-6">
-                                <p>© 2025 All rights reserved. <a href="#" target="_blank">National Book
+                                <p>© 2025 All rights reserved. <a href="#">National Book
                                         Store</a>
                                 </p>
                             </div>
